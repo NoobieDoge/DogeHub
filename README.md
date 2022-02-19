@@ -69,38 +69,38 @@ Shindo Life
 
 Other Supported Games (NOT made by DogeHub):
 
-Anime Fighters Simulator 
+  -Anime Fighters Simulator 
 
-Anime Fighting Simulator
+  -Anime Fighting Simulator
 
-AUT 
+  -AUT 
 
-BedWars
+  -BedWars
 
-Bee Swarm Simulator 
+  -Bee Swarm Simulator 
 
-Bloxfruits
+  -Bloxfruits
 
-Build a Boat for Treasure
+  -Build a Boat for Treasure
 
-Da Hood 
+  -Da Hood 
 
-Funky Friday
+  -Funky Friday
 
-Giant Survival!
+  -Giant Survival!
 
-Islands
+  -Islands
 
-Lumber Tycoon 2 
+  -Lumber Tycoon 2 
 
-Pet Simulator X
+  -Pet Simulator X
 
-Prison Life 
+  -Prison Life 
 
-Ro Ghoul
+  -Ro Ghoul
 
-Tower of Hell 
+  -Tower of Hell 
 
-Wisteria
+  -Wisteria
 
-YBA
+  -YBA
