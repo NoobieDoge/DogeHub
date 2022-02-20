@@ -8,7 +8,7 @@
                 __/ |                        
                |___/                         
     
-    DogeHub v1.4.4b
+    DogeHub v1.4.5
     
     UI:
     NoobieDoge
@@ -21,9 +21,7 @@
     
     [ What's new? ]
 
-    [+] Updated Shindo autofarm script autorank system ٩(ˊᗜˋ*)و
-    [+] Added Loadout Changer to Shindo utilities script
-    [+] Fixed bugs while changing loadouts
+    [+] Added Upgrade Performance function to Shindo, Natural Disaster Survival, Restaurant Tycoon 2 scripts
     [+] Minor details fix
  
 ]]--
