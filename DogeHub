@@ -8,7 +8,7 @@
                 __/ |                        
                |___/                         
     
-    DogeHub v1.4.5
+    DogeHub v1.4.6
     
     UI:
     NoobieDoge
@@ -21,8 +21,7 @@
     
     [ What's new? ]
 
-    [+] Added Upgrade Performance function to Shindo, Natural Disaster Survival, Restaurant Tycoon 2 scripts
-    [+] Minor details fix
+    [+] Recode Shindo Event Boss script
  
 ]]--
 
