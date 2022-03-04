@@ -58,7 +58,7 @@ Shindo Life
   
   -Auto mentor quests
   
-  -Auto spin (from Bruhhub)
+  -Auto spin (from Bruhhub) & Inf Spin (New function)
   
   -Event Boss farm
   
