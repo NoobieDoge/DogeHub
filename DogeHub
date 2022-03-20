@@ -8,7 +8,7 @@
                 __/ |                        
                |___/                         
     
-    DogeHub v1.4.10b
+    DogeHub v1.5.0
     
     UI:
     NoobieDoge
@@ -21,10 +21,8 @@
     
     [ What's new? ]
 
-    [+] Shindo Loadout Changer revamp
-    [+] Shindo Loadout Changer abilities adjust
-    [+] Updated Shindo Auto Rank function
-    [+] Minor bug fixes
+    [+] Shindo AutoFarm script massive bug fix
+    [+] Shindo AutoFarm script "beasts only" autofarm method recode
  
 ]]--
 
