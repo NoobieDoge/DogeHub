@@ -8,7 +8,7 @@
                 __/ |                        
                |___/                         
     
-    DogeHub v1.5.7b
+    DogeHub v1.5.9(BE)
     
     UI:
     NoobieDoge
@@ -17,15 +17,15 @@
     NoobieDoge, Oniisancon
     
     Other Supported Games Scripts:
-    NoobieDoge,海螺,àwá,༺ཌༀൢEA05023ༀൢད༻
+    NoobieDoge, 海螺, àwá, ༺ཌༀൢEA05023ༀൢད༻
     
     [ What's new? ]
 
-    [+] Major Shindo scripts bug fixes
-    [+] Shindo main script new GUI
-    [+] Shindo Loadout Changer added secret codes function
-    [+] Shindo Loadout Changer added new secret page :D
-    [+] Minor bug fixes
+    [+] Kill aura fix
+    [+] Shindo autofarm scripts efficiency fix
+    [+] Shindo autofarm script (beasts only script) fixes:
+    [+] NPC stuck at 0 hp bug fix
+    [+] Double efficiency fix
  
 ]]--
 
