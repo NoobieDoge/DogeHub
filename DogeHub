@@ -8,7 +8,7 @@
                 __/ |                        
                |___/                         
     
-    DogeHub v1.5.9(BE)
+    DogeHub v1.6.0
     
     UI:
     NoobieDoge
@@ -21,11 +21,7 @@
     
     [ What's new? ]
 
-    [+] Kill aura fix
-    [+] Shindo autofarm scripts efficiency fix
-    [+] Shindo autofarm script (beasts only script) fixes:
-    [+] NPC stuck at 0 hp bug fix
-    [+] Double efficiency fix
+    [+] Added Stand Upright: Rebooted script
  
 ]]--
 
