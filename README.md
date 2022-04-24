@@ -96,6 +96,8 @@ Other Supported Games (NOT made by DogeHub):
   -Pet Simulator X
 
   -Prison Life 
+  
+  -Stand Upright: Rebooted
 
   -Ro Ghoul
 
