@@ -8,7 +8,7 @@
                 __/ |                        
                |___/                         
     
-    DogeHub v1.6.0
+    DogeHub v1.6.1
     
     UI:
     NoobieDoge
@@ -21,7 +21,9 @@
     
     [ What's new? ]
 
-    [+] Added Stand Upright: Rebooted script
+    [+] Added Auto Gen 3 Beast Tentacion boss fight script
+    [+] Fixed bug of mentor training boss fight loads dungeon farm script bug
+    [+] Fixed autofarm scripts stuck in air bug
  
 ]]--
 
