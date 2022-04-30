@@ -8,7 +8,7 @@
                 __/ |                        
                |___/                         
     
-    DogeHub v1.6.2
+    DogeHub v1.6.3
     
     UI:
     NoobieDoge
@@ -21,11 +21,7 @@
     
     [ What's new? ]
 
-    [+] Added Auto Gen 3 Beast Tentacion boss fight script
-    [+] Fixed bug of mentor training boss fight loads dungeon farm script bug
-    [+] Fixed autofarm scripts stuck in air bug
-    [+] Minor details fix
-    [+] Added autofarm quest reminder to easily distinguish bugs or no missions
+    [+] Updated Shindo mentor farm functions
  
 ]]--
 
