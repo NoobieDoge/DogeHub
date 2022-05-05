@@ -8,7 +8,7 @@
                 __/ |                        
                |___/                         
     
-    DogeHub v1.6.5
+    DogeHub v1.6.6
     
     UI:
     NoobieDoge
@@ -22,6 +22,7 @@
     [ What's new? ]
 
     [+] Added remove particles/effects function to Shindo script
+    [+] Added boss farm (beta) to Shindo auto farm script
  
 ]]--
 
