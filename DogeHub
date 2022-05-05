@@ -8,7 +8,7 @@
                 __/ |                        
                |___/                         
     
-    DogeHub v1.6.4a
+    DogeHub v1.6.5
     
     UI:
     NoobieDoge
@@ -21,8 +21,7 @@
     
     [ What's new? ]
 
-    [+] Added updated Shindo Kenjutsu farm functions
-    [+] Added Stand Upright: Rebooted script 2 choose 1
+    [+] Added remove particles/effects function to Shindo script
  
 ]]--
 
