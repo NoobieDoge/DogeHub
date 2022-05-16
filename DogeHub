@@ -8,7 +8,7 @@
                 __/ |                        
                |___/                         
     
-    DogeHub v1.7.0
+    DogeHub v1.7.0a
     
     UI:
     NoobieDoge
@@ -24,6 +24,8 @@
     [+] DogeHub GUI minor details fix
     [+] Shindo Inf Spins script code redemption reminder bug fix
     [+] Shindo Mentor farm fully automatic (except 5/5)
+    [+] Shindo Inf spins not reset spin bug patch
+    [+] Shindo Inf spins F9 function turned off as default
  
 ]]--
 
