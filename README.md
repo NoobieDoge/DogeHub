@@ -69,6 +69,8 @@ Shindo Life
 
 Other Supported Games (NOT made by DogeHub):
 
+  -A Hero's Destiny
+  
   -Anime Fighters Simulator 
 
   -Anime Fighting Simulator
