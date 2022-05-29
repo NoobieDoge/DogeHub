@@ -2,7 +2,7 @@
 
 Script:
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobieDoge/DogeHub/main/DogeHub"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobieDoge/DogeHub/main/DogeHub"))()
 
 
 
