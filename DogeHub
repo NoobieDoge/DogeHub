@@ -8,7 +8,7 @@
                 __/ |                        
                |___/                         
 
-    DogeHub v1.8.5
+    DogeHub v1.8.6
 
     UI:
     NoobieDoge
@@ -25,6 +25,8 @@
     [+] Scroll Snipe function no longer spam tp to scroll
     [+] Boss Farms ignores susanoo boss
     [+] Removed War script (Replaced with Dungeons script)
+    [+] Added auto daily boss quests function
+    [+] Added teleport to duel pads and logs function
 
 ]]--
 
