@@ -8,7 +8,7 @@
                 __/ |                        
                |___/                         
 
-    DogeHub v1.8.6
+    DogeHub v1.8.7
 
     UI:
     NoobieDoge
@@ -22,11 +22,9 @@
     [ What's new? ]
 
     [+] Fixed a bunch of shits
-    [+] Scroll Snipe function no longer spam tp to scroll
-    [+] Boss Farms ignores susanoo boss
-    [+] Removed War script (Replaced with Dungeons script)
-    [+] Added auto daily boss quests function
-    [+] Added teleport to duel pads and logs function
+    [+] Added more notifications
+    [+] Shindo Mentor boss fight map added NPC Kill Aura (in case the user's device is too potato to kill the boss with normal functions)
+    [+] Shindo/AutoFarm/Quests all autofarms system upgrade
 
 ]]--
 
