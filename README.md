@@ -67,6 +67,10 @@ Supported Games & Functions:
 		-Event Boss farm
 
 		-My Home AFK rewards
+		
+		-RC Shop Changer
+		
+		-Bloodline Changer
 
 
 
