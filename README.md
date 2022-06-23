@@ -54,11 +54,9 @@ Supported Games & Functions:
 
 	Shindo Life
 
-		-Autofarm levels&ranks
+		-Autofarm Quests
 
 		-Autofarm Dungeons
-
-		-Autofarm War
 
 		-Auto mentor quests
 
