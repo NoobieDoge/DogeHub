@@ -100,6 +100,8 @@ Other Supported Games (NOT made by DogeHub):
 	-Islands
 
 	-Lumber Tycoon 2 
+	
+	-Mining Simulator 2
 
 	-Pet Simulator X
 
