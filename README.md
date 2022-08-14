@@ -1,4 +1,5 @@
-# DogeHub
+## DogeHub
+# (Discontinued)
 
 Script:
 
